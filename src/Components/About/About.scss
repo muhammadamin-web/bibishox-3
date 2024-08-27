@@ -6,11 +6,11 @@
     }
     @include media(650px) {
       
-        padding-bottom: 0px;
+        padding-bottom: 70px;
     }
     @include media(550px) {
       
-        padding-bottom: 0px;
+        padding-bottom: 70px;
     }
     &_box {
         display: grid;
@@ -272,7 +272,7 @@
 
         @include media(650px) {
             width: 100.2%;
-            bottom: -1px;
+            bottom: -60px;
 
             left: -1px;
             // box-shadow: 0px 1px 15px 0px  #E9FCF9;

@@ -3,7 +3,7 @@ import about2 from "../../assets/images/about2.svg";
 import about3 from "../../assets/images/about3.svg";
 import about4 from "../../assets/images/about4.svg";
 import universal from "../../assets/images/about.jpg";
-import location_icon from "../../assets/images/location_icon.svg";
+  import location_icon from "../../assets/images/location_icon.svg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
