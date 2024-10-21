@@ -12,10 +12,12 @@
 '../../Components/Houses_plan/Houses_plan.scss',
 '../../Components/Loading/Loading.scss';
 @import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap');
-
+a{
+  text-decoration: none;
+}
 :root{
-  --brwn1:#251941;
-  --brwn2:#CAB99D;
+  --brwn1:#000;
+  --brwn2:#004F2E;
   --brwn3:#f6f6f4;
   --brwn4:#003A09;
   }
